@@ -1,78 +1,59 @@
-🌐 My Portfolio
+<div align="center">
 
-🚀 Personal Portfolio Website
-Showcasing my skills, projects, and journey as a developer.
+# 🌈🔥 **MY PORTFOLIO** 🔥🌈
 
-🔗 Live Website:
-👉 https://sidharthportfolio.page.gd
+### 💻 *Personal Portfolio Website*  
+### 🚀 *Designed • Developed • Deployed*
 
-📌 About the Project
+🔗 **🌐 Live Website**  
+👉 **https://sidharthportfolio.page.gd**
 
-This is my personal portfolio website created to:
+---
 
-Showcase my skills & projects
+</div>
 
-Share my learning journey
+## 🧑‍🚀 **WHO AM I?**
 
-Provide an easy way to connect with me
+> 🎯 **Hi, I'm _Sidharth Sharma_**  
+> 💡 A **Creative Web Developer & Tech Explorer**  
+> ⚡ Passionate about **Full-Stack Development & Cybersecurity**
 
-The website is simple, fast, and beginner-friendly, designed especially for recruiters and collaborators.
+---
 
-🛠️ Technologies Used
+## 🛠️ **TECH STACK**
 
-HTML5
+✨ **Languages & Tools I Use:**
 
-CSS3
+- 🔴 **HTML5** – Structure  
+- 🔵 **CSS3** – Styling  
+- 🟡 **JavaScript** – Logic  
+- 🟢 **Responsive Design** – Mobile Friendly  
 
-JavaScript
+---
 
-Responsive Design
+## 🌟 **FEATURE HIGHLIGHTS**
 
-✨ Features
+✅ **Modern & Clean UI**  
+✅ **Fully Responsive Design**  
+✅ **Smooth User Experience**  
+✅ **Projects Showcase Section**  
+✅ **Simple & Beginner Friendly Code**
 
-Clean & minimal UI
+---
 
-Fully responsive (mobile + desktop)
+## 🚀 **LIVE DEMO**
 
-Projects showcase
+🌐 **Check it live here:**  
+👉 🔥 **https://sidharthportfolio.page.gd**
 
-About me section
+---
 
-Contact / social links
+## 📂 **PROJECT STRUCTURE**
 
-📸 Preview
-
-You can view the live preview here:
-🔗 https://sidharthportfolio.page.gd
-
-📂 Repository Structure
+```txt
 My_Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-└── README.md
-
-🚀 How to Use
-
-Clone the repository
-
-git clone https://github.com/your-username/My_Portfolio.git
-
-
-Open index.html in your browser
-
-Customize content as per your need
-
-🙋‍♂️ About Me
-
-Hi, I’m Sidharth Sharma 👋
-A passionate learner interested in Web Development, Cybersecurity, and Programming.
-
-📬 Contact
-
-🌐 Portfolio: https://sidharthportfolio.page.gd
-
-💻 GitHub: https://github.com/urfavsidhu
-
-⭐ If you like this project, don’t forget to star the repository!
+│── 📄 index.html
+│── 🎨 style.css
+│── ⚙️ script.js
+│── 📁 assets/
+└── 📘 README.md
