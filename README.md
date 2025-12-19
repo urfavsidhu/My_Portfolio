@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌈🔥 **MY PORTFOLIO** 🔥🌈
+# 🔥 **MY PORTFOLIO** 🔥
 
 ### 💻 *Personal Portfolio Website*  
 ### 🚀 *Designed • Developed • Deployed*
